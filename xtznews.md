@@ -1,6 +1,6 @@
 ---
 slug: "XTZNews"
-date: "2022-5-10"
+date: "2022-5-24"
 project: "XTZ News"
 logline: "XTZ News provides regular ecosystem and project news for the Tezos community and wider audiences."
 logo: "xtznews.png"
