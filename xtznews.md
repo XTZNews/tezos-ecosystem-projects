@@ -9,4 +9,4 @@ status: "active"
 website: "https://xtz.news"
 twitter: "https://twitter.com/XTZNews"
 ---
-XTZ News was set up to provide information and visibility on Tezos ecosystem developments and ecosystem project updates in order to grow and foster more informed audiences across the world.
+XTZ News was created to provide information and visibility on Tezos ecosystem developments and ecosystem project updates in order to grow and foster more informed audiences across the world.
